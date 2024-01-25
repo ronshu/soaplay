@@ -104,6 +104,7 @@ const swiper = new Swiper('.swiper', {
   // If we need pagination
   pagination: {
     el: '.swiper-pagination',
+    clickable: true, //클릭가능여부
   },
 
   // Navigation arrows
