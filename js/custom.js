@@ -59,17 +59,17 @@ window.addEventListener('scroll', scrCtrl); // window 기준으로 스크롤이 
 // Features Section Data
 const features = [
   {
-    image: '/soaply_v0.1.0/images/about-icon-1.svg',
+    image: '/images/about-icon-1.svg',
     title: 'For All Skin Types',
     txt: '정당의 설립은 자유이며, 복수정당제는 보장된다.',
   },
   {
-    image: '/soaply_v0.1.0/images/about-icon-2.svg',
+    image: '/images/about-icon-2.svg',
     title: '100% Organic',
     txt: '모든 국민은 법률이 정하는 바에 의하여 국방의 의무를 진다.',
   },
   {
-    image: '/soaply_v0.1.0/images/about-icon-3.svg',
+    image: '/images/about-icon-3.svg',
     title: 'Cuelty Free',
     txt: '법원은 최고법원인 대법원과 각급법원으로 조직된다.',
   },
